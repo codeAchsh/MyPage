@@ -26,7 +26,7 @@
 ## 🛒 利用・購入リンク
 
 - [📦 テンプレート一覧ページ](https://codeachsh.github.io/All-template-Japanese-/)
-- [🛒 Gumroad ストア](https://achshcode.gumroad.com)
+- [🛒 Gumroad ストア](https://gumroad.com/products)
 - [📝 note ブログ](https://note.com/chill_2525)
 
 ## 🔤 In English
