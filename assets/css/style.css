@@ -37,7 +37,7 @@ body::before{
     z-index: -1;
 }
 .new-badge {
-    background-color: lightskyblue;
+    background-color: rgb(196, 118, 115);
     color: white;
     font-size: 0.6em;
     padding: 0.2em 0.5em;
@@ -129,3 +129,4 @@ section {
 @keyframes fadeInSection {
     to { opacity: 1; }
 }
+
