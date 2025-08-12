@@ -41,7 +41,7 @@ body::before{
     color: white;
     font-size: 0.6em;
     padding: 0.2em 0.5em;
-    border-radius: 4px;
+    border-radius: 10px;
     margin-left: 0.5em;
 }
 
@@ -56,6 +56,9 @@ section {
     max-width: 800px;
     margin: auto;
     text-align: center;
+}
+hr{
+    margin: 1rem;
 }
 .app-card{
     background-color: antiquewhite; 
@@ -129,4 +132,3 @@ section {
 @keyframes fadeInSection {
     to { opacity: 1; }
 }
-
